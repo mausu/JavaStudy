@@ -1,4 +1,4 @@
-package net.mausukun.java.Chapter5.exercise1;
+package Chapter5.Exercise1;
 
 import java.util.Arrays;
 import java.util.Random;
